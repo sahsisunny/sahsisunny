@@ -5,9 +5,6 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **Cyber Security, Networking, Computer Fundamentals**
-
-- 📫 How to reach me **sahsisunny@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
