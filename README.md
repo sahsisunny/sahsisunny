@@ -18,7 +18,11 @@
 ```javascript
 const sunny = {
     location: "Patna, Bihar, India 🇮🇳",
-    role: "Full Stack Developer",
+    role: "Junior Full Stack Developer",
+    company: "Fountane Inc.",
+    companyWebsite: "https://fountane.com/",
+    workMode: "Remote",
+    experience: "Aug 2024 - Present",
     currentFocus: ["React", "Next.js", "TypeScript", "Node.js", "Golang"],
     learning: ["AWS", "Data Structures & Algorithms", "React Native"],
     expertise: ["Web Development", "Mobile Development", "Problem Solving"],
@@ -53,9 +57,7 @@ const sunny = {
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,golang,mongodb,postgres,git,github,linux,docker" alt="Tech Stack"/>
 </p>
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
 
 ## 📈 Contribution Graph
 
@@ -65,10 +67,10 @@ const sunny = {
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-## 💡 Dev Quote
+## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+only+way+to+do+great+work+is+to+love+what+you+do&author=Steve+Jobs" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
