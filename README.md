@@ -18,7 +18,7 @@
 ```javascript
 const sunny = {
     location: "Patna, Bihar, India 🇮🇳",
-    role: "Junior Full Stack Developer",
+    role: "Associate Full Stack Developer",
     company: "Fountane Inc.",
     companyWebsite: "https://fountane.com/",
     workMode: "Remote",
